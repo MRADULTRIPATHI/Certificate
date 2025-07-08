@@ -46,8 +46,4 @@ Welcome to my certification repository! This space highlights my continuous lear
 - **Skills Covered:**
   - Full Front-End Development: HTML5, CSS3, JavaScript  
   - DOM manipulation, Events, Responsive Web Design  
-  - Real-world projects for web UI  
-
----
-
-## 📂 Repository Structure
+  - Real-world projects for web 

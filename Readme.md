@@ -23,7 +23,6 @@ Welcome to my certification repository! This space highlights my continuous lear
   - Cloud economics, pricing models, and shared responsibility model  
   - Basics of cloud security and compliance
 - **Credential Type:** Foundational (Beginner-Friendly)  
-- 📄 **[View Certificate](./certificates/aws-cloud-practitioner.pdf)**
 
 ---
 
@@ -36,7 +35,6 @@ Welcome to my certification repository! This space highlights my continuous lear
   - Python syntax, data types, control flow  
   - Functions, object-oriented programming (OOP)  
   - File handling, error handling, and project-building techniques  
-- 📄 **[View Certificate](./certificates/python.pdf)**
 
 ---
 
@@ -49,7 +47,6 @@ Welcome to my certification repository! This space highlights my continuous lear
   - Full Front-End Development: HTML5, CSS3, JavaScript  
   - DOM manipulation, Events, Responsive Web Design  
   - Real-world projects for web UI  
-- 📄 **[View Certificate](./certificates/html-css-js.pdf)**
 
 ---
 

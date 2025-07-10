@@ -6,15 +6,15 @@ Welcome to my certification repository! This space highlights my continuous lear
 
 ##  Quick Overview
 
-- 👨‍🎓 **Name:** Mradul Tripathi  
-- 🎓 **Education:** B.Tech in Computer Science (IoT), PSIT, Kanpur (Batch: 2022–2026)  
-- 💡 **Core Skills:** Python, JavaScript, HTML5, CSS3, AWS, Git, GitHub  
+-  **Name:** Mradul Tripathi  
+-  **Education:** B.Tech in Computer Science (IoT), PSIT, Kanpur (Batch: 2022–2026)  
+-  **Core Skills:** Python, JavaScript, HTML5, CSS3, AWS, Git, GitHub  
 
 ---
 
-## 🏅 Certifications
+##  Certifications
 
-### ✅ AWS Cloud Practitioner Essentials
+###  AWS Cloud Practitioner Essentials
 - **Platform:** AWS Training & Certification  
 - **Issued By:** Michelle Vaz (Director, AWS Training & Certification)  
 - **Completion Date:** **July 7, 2025**
@@ -26,7 +26,7 @@ Welcome to my certification repository! This space highlights my continuous lear
 
 ---
 
-### ✅ Learn to Code in Python 3 – Beginner to Advanced
+###  Learn to Code in Python 3 – Beginner to Advanced
 - **Platform:** Udemy  
 - **Instructors:** Ivan Lourenço Gomes, Learn IT University, Andrii Piatakha  
 - **Completion Date:** **July 1, 2024**  
@@ -38,7 +38,7 @@ Welcome to my certification repository! This space highlights my continuous lear
 
 ---
 
-### ✅ Complete JavaScript with HTML5, CSS3 – Zero to Expert 2024
+###  Complete JavaScript with HTML5, CSS3 – Zero to Expert 2024
 - **Platform:** Udemy  
 - **Instructor:** Hemanth Kumar  
 - **Completion Date:** **September 26, 2024**  

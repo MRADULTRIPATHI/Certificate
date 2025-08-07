@@ -1,20 +1,20 @@
-#  Mradul Tripathi – Certification Portfolio
+# Mradul Tripathi – Certification Portfolio
 
 Welcome to my certification repository! This space highlights my continuous learning journey and skill development in **cloud computing**, **web development**, and **programming languages**. Each certificate reflects my commitment to gaining practical, in-demand tech skills.
 
 ---
 
-##  Quick Overview
+## Quick Overview
 
--  **Name:** Mradul Tripathi  
--  **Education:** B.Tech in Computer Science (IoT), PSIT, Kanpur (Batch: 2022–2026)  
--  **Core Skills:** Python, JavaScript, HTML5, CSS3, AWS, Git, GitHub  
+- **Name:** Mradul Tripathi  
+- **Education:** B.Tech in Computer Science (IoT), PSIT, Kanpur (Batch: 2022–2026)  
+- **Core Skills:** Python, JavaScript, HTML5, CSS3, AWS, Git, GitHub  
 
 ---
 
-##  Certifications
+## Certifications
 
-###  AWS Cloud Practitioner Essentials
+### AWS Cloud Practitioner Essentials
 - **Platform:** AWS Training & Certification  
 - **Issued By:** Michelle Vaz (Director, AWS Training & Certification)  
 - **Completion Date:** **July 7, 2025**
@@ -26,7 +26,21 @@ Welcome to my certification repository! This space highlights my continuous lear
 
 ---
 
-###  Learn to Code in Python 3 – Beginner to Advanced
+### IBM Python for Data Science, AI & Development
+- **Platform:** Coursera  
+- **Issued By:** IBM (Signed by Senior Data Scientist)  
+- **Completion Date:** **July 19, 2025**  
+- **Skills Gained:**
+  - Python programming basics and data structures  
+  - Data analysis with Pandas and Numpy  
+  - Data visualization (Matplotlib, Seaborn)  
+  - Intro to Machine Learning, AI concepts  
+  - Hands-on Jupyter Notebooks, APIs, and real-world datasets  
+- **Credential Type:** Non-credit Professional Certificate (Beginner to Intermediate)
+
+---
+
+### Learn to Code in Python 3 – Beginner to Advanced
 - **Platform:** Udemy  
 - **Instructors:** Ivan Lourenço Gomes, Learn IT University, Andrii Piatakha  
 - **Completion Date:** **July 1, 2024**  
@@ -38,7 +52,7 @@ Welcome to my certification repository! This space highlights my continuous lear
 
 ---
 
-###  Complete JavaScript with HTML5, CSS3 – Zero to Expert 2024
+### Complete JavaScript with HTML5, CSS3 – Zero to Expert 2024
 - **Platform:** Udemy  
 - **Instructor:** Hemanth Kumar  
 - **Completion Date:** **September 26, 2024**  
@@ -46,4 +60,6 @@ Welcome to my certification repository! This space highlights my continuous lear
 - **Skills Covered:**
   - Full Front-End Development: HTML5, CSS3, JavaScript  
   - DOM manipulation, Events, Responsive Web Design  
-  - Real-world projects for web 
+  - Real-world projects for web
+
+---
